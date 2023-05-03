@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/EFECTO DE SONIDO PASAR HOJAS ( 256kbps cbr ).mp3-9bd6d7a8586a72b334413a8aac44dd35.mp3str"
+
+[deps]
+
+source_file="res://SOunds/EFECTO DE SONIDO PASAR HOJAS ( 256kbps cbr ).mp3"
+dest_files=[ "res://.import/EFECTO DE SONIDO PASAR HOJAS ( 256kbps cbr ).mp3-9bd6d7a8586a72b334413a8aac44dd35.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

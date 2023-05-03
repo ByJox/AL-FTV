@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Música de exiled kingdoms_Relent ( 160kbps ).mp3-5ef98cd1e4b39d11359511c2ad4e756d.mp3str"
+
+[deps]
+
+source_file="res://SOunds/Música de exiled kingdoms_Relent ( 160kbps ).mp3"
+dest_files=[ "res://.import/Música de exiled kingdoms_Relent ( 160kbps ).mp3-5ef98cd1e4b39d11359511c2ad4e756d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

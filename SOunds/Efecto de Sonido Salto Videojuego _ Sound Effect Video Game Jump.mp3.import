@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Efecto de Sonido Salto Videojuego _ Sound Effect Video Game Jump.mp3-30977c4a787ca7a9700e4f6f014477a6.mp3str"
+
+[deps]
+
+source_file="res://SOunds/Efecto de Sonido Salto Videojuego _ Sound Effect Video Game Jump.mp3"
+dest_files=[ "res://.import/Efecto de Sonido Salto Videojuego _ Sound Effect Video Game Jump.mp3-30977c4a787ca7a9700e4f6f014477a6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

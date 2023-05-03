@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Kevin MacLeod   Nerves ( 256kbps cbr ).mp3-90f7a7b78d1100df4fc9b29bf50ff96a.mp3str"
+
+[deps]
+
+source_file="res://SOunds/Kevin MacLeod   Nerves ( 256kbps cbr ).mp3"
+dest_files=[ "res://.import/Kevin MacLeod   Nerves ( 256kbps cbr ).mp3-90f7a7b78d1100df4fc9b29bf50ff96a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

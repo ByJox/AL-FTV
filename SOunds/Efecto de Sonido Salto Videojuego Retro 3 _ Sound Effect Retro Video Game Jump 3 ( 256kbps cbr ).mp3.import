@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Efecto de Sonido Salto Videojuego Retro 3 _ Sound Effect Retro Video Game Jump 3 ( 256kbps cbr ).mp3-3ea1f94c648ceff27a2063b1a340b98c.mp3str"
+
+[deps]
+
+source_file="res://SOunds/Efecto de Sonido Salto Videojuego Retro 3 _ Sound Effect Retro Video Game Jump 3 ( 256kbps cbr ).mp3"
+dest_files=[ "res://.import/Efecto de Sonido Salto Videojuego Retro 3 _ Sound Effect Retro Video Game Jump 3 ( 256kbps cbr ).mp3-3ea1f94c648ceff27a2063b1a340b98c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

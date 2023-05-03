@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Música de exiled kingdoms_Dark chamber ( 160kbps ).mp3-5e64299b2b438f0aa0a9871429b460cc.mp3str"
+
+[deps]
+
+source_file="res://SOunds/Música de exiled kingdoms_Dark chamber ( 160kbps ).mp3"
+dest_files=[ "res://.import/Música de exiled kingdoms_Dark chamber ( 160kbps ).mp3-5e64299b2b438f0aa0a9871429b460cc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

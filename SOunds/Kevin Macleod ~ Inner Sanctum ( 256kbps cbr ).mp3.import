@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Kevin Macleod ~ Inner Sanctum ( 256kbps cbr ).mp3-faa43263a39b0985a5dc8e1eca3bc23c.mp3str"
+
+[deps]
+
+source_file="res://SOunds/Kevin Macleod ~ Inner Sanctum ( 256kbps cbr ).mp3"
+dest_files=[ "res://.import/Kevin Macleod ~ Inner Sanctum ( 256kbps cbr ).mp3-faa43263a39b0985a5dc8e1eca3bc23c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

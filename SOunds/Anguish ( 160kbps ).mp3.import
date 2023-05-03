@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Anguish ( 160kbps ).mp3-432c5395107f8b8d69d582a922b11300.mp3str"
+
+[deps]
+
+source_file="res://SOunds/Anguish ( 160kbps ).mp3"
+dest_files=[ "res://.import/Anguish ( 160kbps ).mp3-432c5395107f8b8d69d582a922b11300.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

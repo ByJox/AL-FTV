@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Sonido de Pasos Caminar en Tierra _loud_sound_- Efecto de Sonido ( 256kbps cbr ).mp3-83f59af5f719ba408cae0e303fb942c9.mp3str"
+
+[deps]
+
+source_file="res://SOunds/Sonido de Pasos Caminar en Tierra _loud_sound_- Efecto de Sonido ( 256kbps cbr ).mp3"
+dest_files=[ "res://.import/Sonido de Pasos Caminar en Tierra _loud_sound_- Efecto de Sonido ( 256kbps cbr ).mp3-83f59af5f719ba408cae0e303fb942c9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
